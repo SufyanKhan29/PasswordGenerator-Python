@@ -1,6 +1,6 @@
 🔐 Strong Password Generator
 
-🎯 Features
+🎯 Features :
 
 ✅ Generate Strong, Random Password in seconds.
 
