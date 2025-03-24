@@ -1,17 +1,17 @@
 🔐 Strong Password Generator
 
-🚀 About
-
-This Strong Password Generator is a simple yet powerful Python script that helps you create highly secure passwords. You can customize the number of alphabets, numbers, and special symbols to generate a unique password every time.
-
 🎯 Features
 
-✅ Generate strong, random passwords
+✅ Generate Strong, Random Password in seconds.
 
-✅ Customizable character composition (letters, numbers, symbols)
+🎨 Customizable – Choose how many letters, numbers, and symbols you want.
 
-✅ Uses Python's random module for security
+🛡️ Security First – Uses Python's random module for security.
 
-✅ Simple and easy-to-use command-line interface
+🚫 Input Validation – Prevents non-numeric and negative values.
 
-✅ Prevents invalid input (non-numeric or negative values)
+😊 Thanks for checking out my code!
+
+
+
+
