@@ -30,6 +30,10 @@
 
 🌍 Location: Peshawar, Pakistan
 
+💡 Feel free to fork the repository, suggest features, or fix bugs.
+
+If you love this project, give it a ⭐.
+
 😊 Thanks for checking out my code!
 
 
